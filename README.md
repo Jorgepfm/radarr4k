@@ -1,13 +1,15 @@
-# Radarr 4K Installer
+# Radarr 4K Installer (UNTESTED VERSION!)
 ### For Swizzin installs
 Second Radarr Installation on Swizzin based systems
+
+For official version go to https://github.com/ComputerByte/radarr4k
 
 Uses existing install as a base. you must ``sudo box install radarr`` prior to running this script. 
 
 Run radarr4kinstall.sh as sudo
 ```bash
 sudo su -
-wget "https://raw.githubusercontent.com/ComputerByte/radarr4k/main/radarr4kinstall.sh"
+wget "https://raw.githubusercontent.com/Jorgepfm/radarr4k/main/radarr4kinstall.sh"
 chmod +x ~/radarr4kinstall.sh
 ~/radarr4kinstall.sh
 ```
@@ -25,7 +27,7 @@ The log file should be located at ``/root/log/swizzin.log``.
 
 ```bash
 sudo su -
-wget "https://raw.githubusercontent.com/ComputerByte/radarr4k/main/radarr4kuninstall.sh"
+wget "https://raw.githubusercontent.com/Jorgepfm/radarr4k/main/radarr4kuninstall.sh"
 chmod +x ~/radarr4kuninstall.sh
 ~/radarr4kuninstall.sh
 ```
