@@ -1,8 +1,8 @@
-# Radarr 4K Installer (UNTESTED VERSION!)
+# Radarr 4K Installer
 ### For Swizzin installs
 Second Radarr Installation on Swizzin based systems
 
-For official version go to https://github.com/ComputerByte/radarr4k
+This is a modified version that should work correctly. Only tested once. For official version go to https://github.com/ComputerByte/radarr4k
 
 Uses existing install as a base. you must ``sudo box install radarr`` prior to running this script. 
 
